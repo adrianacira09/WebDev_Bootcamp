@@ -1,0 +1,12 @@
+{
+  "name": "qr-code",
+  "version": "1.0.0",
+  "description": "QR Code geenration",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adriana Cira",
+  "license": "ISC"
+}
